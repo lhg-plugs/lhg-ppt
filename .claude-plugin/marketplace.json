@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"PPT制作专家：述职/融资/答辩一键成稿（大纲→中文审美母版→原生可编辑PPT→设计自检）","name":"lhg-ppt","source":"./"}]}
